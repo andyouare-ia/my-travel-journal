@@ -83,13 +83,6 @@ a:hover {
   padding: 0 15px;
 }
 
-/*
-.card--info {
-  display: flex;
-  align-items: center;
-  margin: 3px 0;
-} */
-
 .card--description {
   text-align: left;
 }
